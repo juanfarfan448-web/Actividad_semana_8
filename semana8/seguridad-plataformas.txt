@@ -1,0 +1,5 @@
+no exponer datos personales
+utilizar contraseñas seguras
+usar conexiones seguras 
+registar acesso al sistema
+limitar el acesso a informacion sensible
